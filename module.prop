@@ -3,4 +3,4 @@ name=dex2oat optimizer
 version=v1.6.1
 versionCode=8
 author=ziad_mrx (original by iamlooper)
-description=An fork of the dex2oat optimizer module but without the monetization b.s.
+description=A fork of the dex2oat optimizer module but without the monetization b.s.
