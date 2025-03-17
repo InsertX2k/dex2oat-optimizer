@@ -1,12 +1,11 @@
-![dex2oat optimizer](https://github.com/iamlooper/dex2oat-optimizer/raw/main/dex2oat_optimizer.png)
+# dex2oat optimizer
 
-# dex2oat optimizer ⚡
-
-An ART optimization module to accelerate app launches and improve system performance.
+Module description: An ART optimization module to accelerate app launches and improve system performance. <br>
+Fork description: A fork of the dex2oat-optimizer module but with all the monetization b.s. removed.
 
 ## Download 📲
 
-[Click here](https://www.pling.com/p/1819191/) to download the dex2oat optimizer.
+Go to the releases, download the latest release.
 
 ## Notes 📝
 
@@ -17,11 +16,7 @@ An ART optimization module to accelerate app launches and improve system perform
 ## Credits 📜
 
 ### People 👥
-
+- [iamlooper](https://github.com/iamlooper) (Original module creator)
 - [Kshitij](https://t.me/Stock_Sucks) (Designer)
 - [Chirag](https://t.me/selfmuser) (Tester)
 - [Fluph](https://t.me/fluphish) (Tester)
-
-## Disclosure 🔓
-
-[Click here](https://telegra.ph/Disclosure-09-16) to view the disclosure.
