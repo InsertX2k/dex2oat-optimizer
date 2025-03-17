@@ -1,5 +1,11 @@
 # Changelog
 
+## Modified module changelog:
+## v1.0
+* Removed monetization libs and other b.s.
+
+
+## Original module changelog:
 ## v1.6.1
 
 - Misc. changes
