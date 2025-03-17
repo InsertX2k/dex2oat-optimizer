@@ -1,6 +1,7 @@
 #!/system/bin/sh
 # dex2oat optimizer
 # Author: Looper (iamlooper @ github)
+# Modified by: InsertX2k @ Github
 
 ##################
 # Misc. Functions
