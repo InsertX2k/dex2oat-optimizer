@@ -2,5 +2,5 @@ id=dex2oat_optimizer
 name=dex2oat optimizer
 version=v1.6.1
 versionCode=8
-author=iamlooper @ github
-description=An ART optimization module to accelerate app launches and improve system performance.
+author=ziad_mrx (original by iamlooper)
+description=An fork of the dex2oat optimizer module but without the monetization b.s.
