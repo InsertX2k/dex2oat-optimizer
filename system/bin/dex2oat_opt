@@ -79,6 +79,7 @@ packages_tweak() {
 #######
 
 apply_tweaks() {
+    sync
     clear_log
 
     log 1 "[START] dex2oat optimizer Tweaks"
