@@ -1,6 +1,9 @@
 # Changelog
 
 ## Modified module changelog:
+## v1.1
+* Restore the calls to `sync` function in `/system/bin/dex2oat_opt` for flushing fs buffers.
+
 ## v1.0
 * Removed monetization libs and other b.s.
 
